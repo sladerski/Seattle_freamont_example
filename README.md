@@ -1,2 +1,5 @@
 # Seattle_freamont_example
-Example to improve unit testing
+
+Example to work on my unit testing - nice tutorial on pytest.
+
+Also PCA and GuassianMixture to cluster. 
